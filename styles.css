@@ -1,0 +1,30 @@
+/* add your CSS here */
+.animal-image{
+    width:300px;
+    text-align: center;
+}
+.card-holder-2{
+    text-align: center;
+}
+.card-holder{
+    border: 2px solid #ada7a7;
+    width: 320px;
+    height: 499px;
+    box-shadow: 5px 10px #bfbaba;
+}
+.animal-heading{
+    padding-left: 12px;
+}
+.animal-paragraph{
+    border: 1px solid gray;
+    margin: auto;
+    width: 300px;
+    
+}
+.animal-property{
+    font-weight: bold;
+    text-align: left !important;
+}
+.animal-fact{
+    font-style: italic;
+}
