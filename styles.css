@@ -19,12 +19,15 @@
     border: 1px solid gray;
     margin: auto;
     width: 300px;
+    text-align: left;
     
 }
 .animal-property{
     font-weight: bold;
-    text-align: left !important;
+    font-size: 15px;
 }
 .animal-fact{
     font-style: italic;
+    text-align: left;
+    font-size: 14px;
 }
